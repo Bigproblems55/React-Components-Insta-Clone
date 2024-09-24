@@ -1,3 +1,6 @@
+# Deployed on
+https://react-components-insta-clone.onrender.com
+
 # React-Components-Insta-Clone
 
 ## Composing React Components and Passing Data Via Props
